@@ -44,7 +44,7 @@
   - Twitter: [@arghyadeepdas99](https://twitter.com/arghyadeepdas99)
   - Medium: [@arghyadeep.d](https://medium.com/@arghyadeep.d)
   - Facebook: [arghyadeep.d](https://facebook.com/arghyadeep.d)
-  - Telegram: [tensor.overflow](https://t.me/tensor_overflow)
+  - Telegram: [tensor_overflow](https://t.me/tensor_overflow)
 
 * 😄 Pronouns: He/him
 * ⚡ Fun fact: I have an OCD for neatly formatted code. Also, I prefer Tabs over spaces. 

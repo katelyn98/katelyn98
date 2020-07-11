@@ -49,4 +49,4 @@
 * 😄 Pronouns: He/him
 * ⚡ Fun fact: I have an OCD for neatly formatted code. Also, I prefer Tabs over spaces. 
 
-![Arghyadeep's GitHub Stats](https://github-readme-statats.vercel.app/api?username=arghyadeep99)
+![Arghyadeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arghyadeep99)

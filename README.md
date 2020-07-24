@@ -13,9 +13,9 @@
   - [Fast-Sentilyzer](https://github.com/arghyadeep99/Fast-Sentilyzer)
   - Twitter Bot for Neural Style Transfer
   - Library for WhatsApp Chat Analysis
-  - Webapp for Diabetic Retinopathy
   
 * 🌱 I’m currently learning:
+  - Reinforcement Learning (RL)
   - PyTorch
   - Natural Language Processing (NLP)
   - System Design
@@ -24,6 +24,7 @@
 * 👯 I’m looking to collaborate on <b> end-to-end NLP and CV Projects </b>
 
 * 🤔 I’m looking for help with:
+  - Reinforcement Learning
   - Development of end-to-end ML projects
   - Cloud Deployment of DL projects
   - Workng on open-source ML/DL libraries
@@ -35,7 +36,6 @@
   - Java
   - Machine Learning/Deep Learning concepts
   - Linux
-  - How to learn
   
 * 📫 How to reach me:
   - LinkedIn: [arghyadeep-das](https://linkedin.com/in/arghyadeep-das/)
@@ -47,6 +47,6 @@
   - Telegram: [tensor_overflow](https://t.me/tensor_overflow)
 
 * 😄 Pronouns: He/him
-* ⚡ Fun fact: I have an OCD for neatly formatted code. Also, I prefer Tabs over spaces. 
+* ⚡ Fun fact: I have an OCD for neatly formatted code and documents. Also, I prefer Tabs over spaces. 
 
 ![Arghyadeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arghyadeep99)

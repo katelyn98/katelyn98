@@ -3,7 +3,7 @@
   <br>
   <samp>
     <br>
-    👋 Hi I'm <strong>Arghyadeep Das</strong>, a junior student in Computer Science and Engineering(CSE) with excellent academic background and diverse skillset. Currently, I am the Lead Mentor in Somaiya Machine Learning Research Assoiation (SMLRA), a Microsoft Student Partner (MSP) (Beta level) and also a deeplearing.ai Ambassador. My interests are aligned with Deep Learning and Reinforcement Learning. I am experienced in working with Python3, Deep Learning, Machine Learning, Django, Android, MongoDB, and PostgreSQL.
+    👋 Hi I'm <strong>Arghyadeep Das</strong>, a senior student in Computer Science and Engineering(CSE) with excellent academic background and diverse skillset. Currently, I am the Lead Mentor in Somaiya Machine Learning Research Assoiation (SMLRA), a Microsoft Student Partner (MSP) (Beta level) and also a deeplearing.ai Ambassador. My interests are aligned with Deep Learning and Reinforcement Learning. I am experienced in working with Python3, Deep Learning, Machine Learning, Django, Android, MongoDB, and PostgreSQL.
     <br><br>
   </samp>
 </p>

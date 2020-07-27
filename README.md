@@ -8,8 +8,7 @@
   </samp>
 </p>
 
-* 🔭 I’m currently working on:
-  - [CoronaXiv](https://github.com/arghyadeep99/CoronaXiv)
+* 🔭 I’m currently working with: [Unfound.ai](https://unfound.ai). Some side projects I am working on:
   - [Fast-Sentilyzer](https://github.com/arghyadeep99/Fast-Sentilyzer)
   - Twitter Bot for Neural Style Transfer
   - Library for WhatsApp Chat Analysis
@@ -49,4 +48,4 @@
 * 😄 Pronouns: He/him
 * ⚡ Fun fact: I have an OCD for neatly formatted code and documents. Also, I prefer Tabs over spaces. 
 
-![Arghyadeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arghyadeep99)
+![Arghyadeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arghyadeep99&show_icons=True&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)

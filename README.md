@@ -8,7 +8,7 @@
   </samp>
 </p>
 
-* 🔭 I’m currently working with: [Unfound.ai](https://unfound.ai). Some side projects I am working on:
+* 🔭 I’m currently working on:
   - [Fast-Sentilyzer](https://github.com/arghyadeep99/Fast-Sentilyzer)
   - Twitter Bot for Neural Style Transfer
   - Library for WhatsApp Chat Analysis
@@ -35,6 +35,9 @@
   - Java
   - Machine Learning/Deep Learning concepts
   - Linux
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadeep99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
 * 📫 How to reach me:
   - LinkedIn: [arghyadeep-das](https://linkedin.com/in/arghyadeep-das/)

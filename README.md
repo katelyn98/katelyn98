@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./avatar.png" width="200px">
+  <img src="https://github.com/arghyadeep99/arghyadeep99/blob/master/avatar.png" width="200px">
   <br>
   <samp>
     <br>

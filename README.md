@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://www.muckibu.de/wp-content/uploads/2018/10/Octocat.png" width="50px">
+  <img src="./avatar.png" width="200px">
   <br>
   <samp>
     <br>
-    👋 Hi I'm <strong>Arghyadeep Das</strong>, a senior student in Computer Science and Engineering(CSE) with excellent academic background and diverse skillset. Currently, I am the Lead Mentor in Somaiya Machine Learning Research Assoiation (SMLRA), a Microsoft Student Partner (MSP) (Beta level) and also a deeplearing.ai Ambassador. My interests are aligned with Deep Learning and Reinforcement Learning. I am experienced in working with Python3, Deep Learning, Machine Learning, Django, Android, MongoDB, and PostgreSQL.
+    👋 Hi I'm <strong>Arghyadeep Das</strong>, a senior student in Computer Science and Engineering(CSE) with excellent academic background and diverse skillset. Currently, I am the Lead Mentor in Somaiya Machine Learning Research Assoiation (SMLRA), a Microsoft Student Partner (MSP) (Beta level) and incoming Technical Analyst at Barclays. My interests are aligned with Deep Learning and Reinforcement Learning. I am experienced in working with Python3, Deep Learning, Machine Learning, Django, Android, MongoDB, and PostgreSQL.
     <br><br>
   </samp>
 </p>
@@ -11,11 +11,10 @@
 * 🔭 I’m currently working on:
   - [Fast-Sentilyzer](https://github.com/arghyadeep99/Fast-Sentilyzer)
   - Twitter Bot for Neural Style Transfer
-  - Library for WhatsApp Chat Analysis
   
 * 🌱 I’m currently learning:
   - Reinforcement Learning (RL)
-  - PyTorch
+  - Golang
   - Natural Language Processing (NLP)
   - System Design
   - Data Structures and Algorithms
@@ -35,6 +34,8 @@
   - Java
   - Machine Learning/Deep Learning concepts
   - Linux
+  - Advice/Mentorship
+  - Cricket (Korbo Lorbo Jeetbo Re!)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadeep99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

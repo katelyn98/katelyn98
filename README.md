@@ -3,9 +3,19 @@
   <br>
   <samp>
     <br>
-    👋 Hi I'm <strong>Arghyadeep Das</strong>, a senior student in Computer Science and Engineering(CSE) with excellent academic background and diverse skillset. Currently, I am the Lead Mentor in Somaiya Machine Learning Research Assoiation (SMLRA), a Microsoft Student Partner (MSP) (Beta level) and incoming Technical Analyst at Barclays. My interests are aligned with Deep Learning and Reinforcement Learning. I am experienced in working with Python3, Deep Learning, Machine Learning, Django, Android, MongoDB, and PostgreSQL.
+    👋 Hi I'm <strong>Arghyadeep Das</strong>, a senior student in Computer Science and Engineering (CSE) with excellent academic background and diverse skillset. Currently, I am the Lead Mentor in Somaiya Machine Learning Research Association (SMLRA) and incoming Technical Analyst at Barclays. My interests are aligned with Machine Learning and Deep Learning. I am experienced in working with Python3, Deep Learning, Machine Learning, Django, Flutter, MongoDB, and PostgreSQL.
     <br><br>
   </samp>
+</p>
+<p align="center">
+  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+  [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]
+  [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">]
+  [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />]
+  [<img height="30" src="https://img.shields.io/badge/telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" />]
+  [<img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />]
+  <br />
+  <hr />
 </p>
 
 * 🔭 I’m currently working on:
@@ -53,3 +63,7 @@
 * ⚡ Fun fact: I have an OCD for neatly formatted code and documents. Also, I prefer Tabs over spaces. 
 
 ![Arghyadeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arghyadeep99&show_icons=True&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+
+[linkedin]: https://linkedin.com/in/arghyadeep-das/
+

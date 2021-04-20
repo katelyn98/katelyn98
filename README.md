@@ -1,6 +1,13 @@
 <p align="center">
   <img src="https://github.com/arghyadeep99/arghyadeep99/blob/master/avatar.png" width="200px">
   <br>
+  <p align=center>
+    <img src="https://badges.pufler.dev/visits/arghyadeep99/arghyadeep99?color=black&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=arghyadeep99&color=brightgreen" />
+    <a href="https://github.com/arghyadeep99">
+    <img src="https://badges.pufler.dev/commits/monthly/arghyadeep99?color=blue" />
+    </a>
+    </p>
   <samp>
     <br>
     👋 Hi I'm <strong>Arghyadeep Das</strong>, a senior student in Computer Science and Engineering (CSE) with excellent academic background and diverse skillset. Currently, I am the Lead Mentor in Somaiya Machine Learning Research Association (SMLRA) and incoming Technical Analyst at Barclays. My interests are aligned with Machine Learning and Deep Learning. I am experienced in working with Python3, Deep Learning, Machine Learning, Django, Flutter, MongoDB, and PostgreSQL.
@@ -39,14 +46,6 @@
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=arghyadeep99&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
-</p>
-
-<p align=center>
-<img src="https://badges.pufler.dev/visits/arghyadeep99/arghyadeep99?color=black&logo=github" />
-<img src="https://komarev.com/ghpvc/?username=arghyadeep99&color=brightgreen" />
-<a href="https://github.com/arghyadeep99">
-<img src="https://badges.pufler.dev/commits/monthly/arghyadeep99?color=blue" />
-</a>
 </p>
 <br>
 
